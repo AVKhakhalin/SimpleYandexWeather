@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YandexWeather</string>
+    <string name="empty_text">---</string>
+    <string name="temperature_title_text">Температура</string>
+    <string name="feels_title_text">Ощущается как</string>
+    <string name="city_title_text">Берлин</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/city_title_text"
+        android:textSize="@dimen/city_title_text_size" />
+
+    <TextView
+        android:id="@+id/condition_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/cuprum"
+        android:gravity="center_horizontal"
+        android:text="@string/empty_text"
+        android:textSize="@dimen/condition_title_text_size" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/temperature_title_text"
+        android:textSize="@dimen/temperature_title_text_size" />
+
+    <TextView
+        android:id="@+id/current_temperature_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/empty_text"
+        android:textSize="@dimen/temperature_field_text_size" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/feels_title_text"
+        android:textSize="@dimen/feels_title_text_size" />
+
+    <TextView
+        android:id="@+id/feel_temperature_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/empty_text"
+        android:textSize="@dimen/feels_fiels_text_size" />
+</LinearLayout>

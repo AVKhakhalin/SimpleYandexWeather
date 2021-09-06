@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86c3d8a1-7a49-4a05-8f42-8401c7eaa729" name="Default Changelist" comment="Выполнение 1 пункта ТЗ.&#10;&#10;Создан макет для фрагмента с текущими данными погоды.&#10;Созданы для него все необходимые переменные, в которые размещён &quot;хардкод&quot;. &#10;&#10;Ссылка на репозиторий программы:&#10;https://github.com/AVKhakhalin/Kotlin_YandexWeather">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/geekbrains/lessions2345/yandexweather/ui/activities/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/geekbrains/lessions2345/yandexweather/ui/activities/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/geekbrains/lessions2345/yandexweather/ui/fragments/content/result/Zaglushka2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/geekbrains/lessions2345/yandexweather/ui/fragments/content/result/ResultCurrentFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_result_current.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_result_cu
